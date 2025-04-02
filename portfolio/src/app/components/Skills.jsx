@@ -12,7 +12,7 @@ const Skills = () => {
                               Laravel
                             </p>
                             <Image 
-                              src="/images/laravel.png"
+                              src="https://discord.com/channels/@me/1107524618450911375/1357030988357701753"
                               alt="Logo Laravel" 
                               width={70} 
                               height={30} 
@@ -24,7 +24,7 @@ const Skills = () => {
                               Docker
                             </p>
                             <Image 
-                              src="/images/docker.png" 
+                              src="https://discord.com/channels/@me/1107524618450911375/1357030967000436807" 
                               alt="Logo Docker" 
                               width={70} 
                               height={30} 
@@ -36,7 +36,7 @@ const Skills = () => {
                               Next.js
                             </p>
                             <Image 
-                              src="/images/nextjs.png" 
+                              src="https://discord.com/channels/@me/1107524618450911375/1357031051775447251" 
                               alt="Logo Next.js" 
                               width={70} 
                               height={30} 
@@ -48,7 +48,7 @@ const Skills = () => {
                               MongoDB
                             </p>
                             <Image 
-                              src="/images/mangodb.png" 
+                              src="https://discord.com/channels/@me/1107524618450911375/1357031024139178005" 
                               alt="Logo MongoDB" 
                               width={70} 
                               height={30} 
@@ -60,7 +60,7 @@ const Skills = () => {
                               Node.js
                             </p>
                             <Image 
-                              src="/images/nodejs.png" 
+                              src="https://discord.com/channels/@me/1107524618450911375/1357031065994264759" 
                               alt="Logo Node.js"
                               width={70} 
                               height={30} 
@@ -72,7 +72,7 @@ const Skills = () => {
                               Tailwind
                             </p>
                             <Image 
-                              src="/images/tailwind.png" 
+                              src="https://discord.com/channels/@me/1107524618450911375/1357031079432945865" 
                               alt="Logo Tailwind" 
                               width={70} 
                               height={30} 

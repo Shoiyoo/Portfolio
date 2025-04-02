@@ -10,7 +10,7 @@ module.exports = {
         retro: ['retro', 'sans-serif'],
       },
       backgroundImage: {
-        'hero-pattern': "url('/images/dglksej-3ed5f398-b5c8-4d98-b908-43438b2964f2.gif')",
+        'hero-pattern': "url('https://discord.com/channels/@me/1107524618450911375/1357031192914038875')",
       },
       scrollBehavior: {
         smooth: 'smooth',
