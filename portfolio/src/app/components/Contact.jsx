@@ -56,7 +56,7 @@ const Contact = () => {
         <ul className="flex justify-center mt-4 space-x-4">
           <li>
             <a 
-              href="https://www.linkedin.com/in/pierre-decaudin-76626823b/" 
+              href="https://i.postimg.cc/rF0MTT5n/linkedin.webp" 
               target="_blank" 
               rel="noopener noreferrer" 
               title="Linkedin"
@@ -76,7 +76,7 @@ const Contact = () => {
           </li>
         </ul>
         <a
-          href="https://www.linkedin.com/in/pierre-decaudin-76626823b/"
+          href="https://i.postimg.cc/rF0MTT5n/linkedin.webp"
           target="_blank"
           rel="noopener noreferrer"
         >

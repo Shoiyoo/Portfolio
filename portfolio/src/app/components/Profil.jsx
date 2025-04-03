@@ -8,7 +8,7 @@ const Profil = () => {
                         <div className="grid grid-cols-6 gap-1 pt-15 px-9">
                           <div className="col-span-2 flex flex-col items-center -mt-9">
                             <Image
-                              src="https://discord.com/channels/@me/1107524618450911375/1357030930413391893" 
+                              src="https://i.postimg.cc/SNMF5rpH/image.jpg" 
                               alt="Photo Pierre Decaudin"
                               width={300}
                               height={300}

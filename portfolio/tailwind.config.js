@@ -10,7 +10,7 @@ module.exports = {
         retro: ['retro', 'sans-serif'],
       },
       backgroundImage: {
-        'hero-pattern': "url('https://discord.com/channels/@me/1107524618450911375/1357031192914038875')",
+        'hero-pattern': "url('https://i.postimg.cc/2SNRfZky/cyberpunk.gif')",
       },
       scrollBehavior: {
         smooth: 'smooth',

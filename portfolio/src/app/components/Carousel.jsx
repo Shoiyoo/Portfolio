@@ -40,7 +40,7 @@ const DualCarousel = () => {
       id: 'carousel-1',
       items: [
         { id: 'item-1-1', title: 'Projet My_cinema', text: 'Recréer un site de cinéma' },
-        { id: 'item-1-2', image: 'https://discord.com/channels/@me/1107524618450911375/1357031116623843440' },
+        { id: 'item-1-2', image: 'https://i.postimg.cc/8k3gtYxh/cinema.png' },
         { id: 'item-1-3', textList: [
           'Gestion des bases de donnée',
           'Afficher des données venant de Mysql',
@@ -54,7 +54,7 @@ const DualCarousel = () => {
       id: 'carousel-2',
       items: [
         { id: 'item-2-1', title: 'Projet My_meetic', text: 'Recréer un site de rencontre' },
-        { id: 'item-2-2', image: 'https://discord.com/channels/@me/1107524618450911375/1357031136152522943' },
+        { id: 'item-2-2', image: 'https://i.postimg.cc/rmZ26Zs2/mymeetic.png' },
         { id: 'item-1-3', textList: [
           'Gérer les données utilisateur',
           'Permettre aux utilisateurs de gérer leurs informations',
@@ -68,7 +68,7 @@ const DualCarousel = () => {
       id: 'carousel-3',
       items: [
         { id: 'item-3-1', title: 'Projet Tweet_academy', text: 'Recréer Twitter'  },
-        { id: 'item-3-2', image: 'https://discord.com/channels/@me/1107524618450911375/1357031173812916244' },
+        { id: 'item-3-2', image: 'https://i.postimg.cc/qv2rtGb2/twt.png' },
         { id: 'item-1-3', textList: [
           'Travailler sur un projet long terme et en équipe',
           'Gérer les requêtes AJAX et afficher une TL dynamique',
@@ -83,7 +83,7 @@ const DualCarousel = () => {
       id: 'carousel-4',
       items: [
         { id: 'item-4-1', title: 'Projet Spotify', text: 'Recréer Spotify' },
-        { id: 'item-4-2', image: 'https://discord.com/channels/@me/1107524618450911375/1357031154548605209' },
+        { id: 'item-4-2', image: 'https://i.postimg.cc/dtbvtfBq/spotify.png' },
         { id: 'item-1-3', textList: [
           'Gérer son temps et son équipe sur une période courte (3j)',
           'Travailler avec react et docker',
